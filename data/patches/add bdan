@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "bdan",
+	"description": "bdan is a Progressive House producer based in Germany, although he has not released a single song on mau5trap, the community responsible for the artworks near the logo built this in appreciation for him after years of being a part of the community.",
+	"links": {
+		"website": [
+			"https://bdan.io/"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				1232,
+				7
+			],
+			[
+				1238,
+				7
+			],
+			[
+				1238,
+				12
+			],
+			[
+				1232,
+				12
+			]
+		]
+	},
+	"center": {
+		"250": [
+			1235,
+			10
+		]
+	}
+}
